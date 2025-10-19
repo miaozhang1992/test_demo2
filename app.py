@@ -8,3 +8,7 @@ print(response.status_code)
 
 # 打印响应内容
 print(response.text)
+
+# add new method
+def new_method():
+    print("this is a new method")
